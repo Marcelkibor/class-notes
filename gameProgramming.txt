@@ -23,3 +23,13 @@ types of simulations include sports simulation,  flight simulation, boat
 Puzzle games
 Augmented reality games -> These games mimic real life situations 
 and could be played for fun or improvement of human lives
+#components of a game
+Opening screen 
+menu screen
+music
+sound effects
+time -> timing a task,
+lives 
+obstacle
+levels
+adversaries -> who you're playing against
