@@ -1,4 +1,4 @@
-28th April 2020
+#28th April 2020
 ----------------------------
 Conflict -> Element of struggle eg between players, chance or teams
 Control - > These are rules they are either simple, complex. Fixed or flexible
@@ -8,7 +8,7 @@ Contravance -> elements of artificality  {eg infusion of powers
 Microgame - >brief game last btw 30 secs and 10 mins
 What are the qualities of a microgame?
 
-Attributes of a game
+#Attributes of a game
 ------------------------
 1. Goal -> this gives the player the purpose
 They should be challanging yet achievable.
@@ -16,3 +16,10 @@ They should be challanging yet achievable.
 examples include:, attemps left, cumulative points, health bar
 3. Voluntary participation
 4. Rules
+Game genres
+1. Action games
+2, Simulatoin games - > depicts real events
+types of simulations include sports simulation,  flight simulation, boat 
+Puzzle games
+Augmented reality games -> These games mimic real life situations 
+and could be played for fun or improvement of human lives
