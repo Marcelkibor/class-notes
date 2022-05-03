@@ -93,7 +93,9 @@ not moving
 -> only process collisions with dynamic game objects
 -> Dynamic Game Objects -> gameObjects that can move during runtime
 
- 
+#Dynamic Game Characters
+these gameObjects are driven by a physics engine which controls the motion
+(force, velocity, gravity etc..)
 
 
 
