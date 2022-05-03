@@ -45,6 +45,81 @@ Game view -> Simulates your final rendered game through scene cameras. Hitting r
 Cameras ->components that create an image of a viewpoint. The output is either drawn on screen or captured as texture
 Overlays - > contain basic tools for manipulation of the scene
 Inspector window - > for viewing and editing the properties of game objects.
-Game object -> fundamental objects in unity that represent characters, scenes and props. They act as containers for components which implement the functionality of these objects.
+Game object -> fundamental objects in unity that represent characters, scenes and props. 
+They act as containers for components which implement the functionality of these objects.
 Project window - > displays library of assets present (imported) into the projects.
 Status bar -> provides notifications of unity processes.
+#RigidBody
+A component that allow game objects to act under the control of physics
+ie uses NVIDIA PhysX physics engine - > an engine that allows reaction to collisions and gravity
+
+Properties of RigidBody
+Mass -> in kg
+Drag  -> Air resistance affecting the object (0- no resistance , 
+infinity -> object cant move 
+Angular Drag -> 
+Use Gravity
+Is Kinematic
+Interpolate
+Collision Detection
+
+Colliders ->  They attach on gameObjects to define their shapes which are then used for
+physical collisions.
+-> They don't have to be exactly the same as the mesh of the object.
+-> They are invisible
+
+
+#Categories seperates into 2D and 3D
+#2D
+-Box collider 2D
+-Circle Collider 3D
+#3D
+-Box Collider
+-Sphere Collider
+-Capsule Collider
+Collision - > How does it occur?
+when the physics engines detects that the colliders of 2 gameObjects have overlaped or
+made contact when atleast one has a rigid body component and is in motion.
+
+#Body types for 2D RigidBody
+#Static
+#-----
+-No real rigidbody component attached to them, so the physics engine considers it to be
+not moving
+-applied to static gameObjects such as trees, walls, ground etc
+-OnTrigger and OnCollision don't work
+#Kinematic
+-> Are entirely  driven by scripts
+-> only process collisions with dynamic game objects
+-> Dynamic Game Objects -> gameObjects that can move during runtime
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
