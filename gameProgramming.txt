@@ -1,5 +1,5 @@
 #28th April 2020
-----------------------------
+#----------------------------
 Conflict -> Element of struggle eg between players, chance or teams
 Control - > These are rules they are either simple, complex. Fixed or flexible
 Closure -> when games come to an end
@@ -33,3 +33,18 @@ lives
 obstacle
 levels
 adversaries -> who you're playing against
+
+#--------------------------------------
+#3rd May 2022
+#----------------------------------
+#Unity Documentation
+#------------------------
+Hierarchy window - > a hierarchical text representation of all the game objects.
+Scene view -> For representation of a 2D or 3D perspective of the game
+Game view -> Simulates your final rendered game through scene cameras. Hitting run will begin simulation of the game.
+Cameras ->components that create an image of a viewpoint. The output is either drawn on screen or captured as texture
+Overlays - > contain basic tools for manipulation of the scene
+Inspector window - > for viewing and editing the properties of game objects.
+Game object -> fundamental objects in unity that represent characters, scenes and props. They act as containers for components which implement the functionality of these objects.
+Project window - > displays library of assets present (imported) into the projects.
+Status bar -> provides notifications of unity processes.
