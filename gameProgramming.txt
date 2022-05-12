@@ -53,7 +53,7 @@ Status bar -> provides notifications of unity processes.
 A component that allow game objects to act under the control of physics
 ie uses NVIDIA PhysX physics engine - > an engine that allows reaction to collisions and gravity
 
-Properties of RigidBody
+#Properties of RigidBody
 Mass -> in kg
 Drag  -> Air resistance affecting the object (0- no resistance , 
 infinity -> object cant move 
@@ -97,12 +97,23 @@ not moving
 these gameObjects are driven by a physics engine which controls the motion
 (force, velocity, gravity etc..)
 
-
-
-
-
-
-
+#Categories of Behaviour
+Focal point
+anticipation
+annoiced change
+Believable events and behavious
+Ovalapping events and behaviour
+#Principals of Environment
+1.Focal point = gives player idea of what to focus on.
+2.Anticipation = creation of suspence whithing. Informs the player that something is about to happen.
+3.Believable Events and Behaviour
+4.Overlapping events and behaviour - other activites outside the primary activity which can influence the events
+#spacing can affect pacing
+-How much time is spaced betweeen interaction of game objects?
+Vary complexity - pacing
+Pacing and spacing both form progression
+Pacing - descibes the relationship betweeen an activity its intensity and duration in a game.
+Spacing - range between objects and their interactivity.
 
 
 
