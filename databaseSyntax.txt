@@ -1,0 +1,23 @@
+#SYNTAX <101>
+#IMPLEMENTING NEW RELATIONS
+Creating database ->
+-create database sampleDb;
+creating tables ->
+(switch to table)==> use sampleDb;
+-create table recipe (
+foodID int, foodName, Servings varchar(100);
+#WORKING WITH EXISTING RELATIONS
+-alter table <tName> ADD PRIMARY KEY(<colName>)
+Displaying all attributes(columns) in a database use =>
+-show all columns in <tableName>
+#Database relations - associations between tables that are created  
+using statements to retrieve data  
+#Altering tables
+Altering -> done to add, modify of delete data in a table
+delete example - alter table <tName> drop COLUMN <colName>;
+adding example - alter table <tName> add COLUMN <colName>;
+#Addition of a new primary key
+-alter table <tableName> add constraint <Cname> primary key <colName>
+#Modification of datatype
+alter table <tName> MODIFY COLUMN <colName> <newDataType>;
+
