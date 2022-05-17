@@ -5,7 +5,7 @@ Creating database ->
 creating tables ->
 (switch to table)==> use sampleDb;
 -create table recipe (
-foodID int, foodName, Servings varchar(100);
+foodID int, foodName, Servings varchar(100));
 #WORKING WITH EXISTING RELATIONS
 -alter table <tName> ADD PRIMARY KEY(<colName>)
 Displaying all attributes(columns) in a database use =>
