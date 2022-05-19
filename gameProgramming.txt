@@ -130,6 +130,8 @@ not moving
 these gameObjects are driven by a physics engine which controls the motion
 (force, velocity, gravity etc..)
 
+
+#19/5/2022
 #Categories of Behaviour
 Focal point
 anticipation
@@ -185,6 +187,21 @@ Alternative action - eg No action/ displaying a message
 Pseudocode - ie if (get KeyInput is up){move positive on z axis}
 Reward - eg 1 point for correct movement.
 Pacer Logic- eg place enemy 10m from player, and reduce distance every 2 seconds.
+
+#Scene Design Principles.
+Categories
+1. General -> eg (a). focal point (gives player something to focus on),
+(b)Anticipation -> tells player what to soon expect eg horn to indicate arriving vihecle,
+(c)Change announcement -> communicated changes to players. A good rule of thumb is 
+degree of rarity which states that 
+frequently occuring events changes don't need continous announcements
+ as compared to rare events
+
+2. Behaviour -> eg Believable events, Overlapping Events, Physics, Sound
+3. Progression -> eg pacing
+4. Environment -> eg spacing, game appeal, player interaction with other game objects,
+communication ie clarity of solution to objectives.
+ (eg team members being aware of objectives)
 
 
 
