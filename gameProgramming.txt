@@ -1,15 +1,18 @@
 #28th April 2020
 #----------------------------
+
 #Characteristics of a game -> the 4 C's
 Conflict -> Element of struggle eg between players, chance or teams
 Control - > These are rules they are either simple, complex. Fixed or flexible
 Closure -> when games come to an end
 Contravance -> elements of artificality  {eg infusion of powers
+
 #Types of games -> NOTE: DEFINE CHARACTERISTICS FOR BOTH
 Microgame - >brief game last btw 30 secs and 10 mins
 What are the qualities of a microgame?
 
 MiniGame -> Last between 10 and 45 minutes.
+
 #Attributes of a game
 ------------------------
 1. Goal -> this gives the player the purpose
@@ -23,6 +26,7 @@ and accept them voluntarilty in order to participate.
 
 4. Rules -> these make achievement of the goal challanging,
 which brings player encouragement.
+
 #Game genres
 
 1. Action games -> use of realtime skill in play eg jumping/ shoot at a moving target 
@@ -38,15 +42,18 @@ types of simulations include sports simulation,  flight simulation, boat
 4. Puzzle games
 Augmented reality games -> These games mimic real life situations 
 and could be played for fun or improvement of human lives
+
 #Principles of a Game
 Substancial amount of research for game
 Good game design
+
 #Principles of Mobile Game Design
 1. provide help on playing the game
 2. easy to undersrand goals
 3. Implement short sessions
 4. Resume capability
 5. Dynamic HCI
+
 #Components of a game
 Opening screen 
 menu screen
@@ -63,6 +70,7 @@ adversaries -> who you're playing against
 #----------------------------------
 #Unity Documentation
 #------------------------
+
 Hierarchy window - > a hierarchical text representation of all the game objects.
 Scene view -> For representation of a 2D or 3D perspective of the game
 Game view -> Simulates your final rendered game through scene cameras. Hitting run will begin simulation of the game.
@@ -73,6 +81,7 @@ Game object -> fundamental objects in unity that represent characters, scenes an
 They act as containers for components which implement the functionality of these objects.
 Project window - > displays library of assets present (imported) into the projects.
 Status bar -> provides notifications of unity processes.
+
 #RigidBody
 A component that allow game objects to act under the control of physics
 ie uses NVIDIA PhysX physics engine - > an engine that allows reaction to collisions and gravity
@@ -127,11 +136,13 @@ anticipation
 annoiced change
 Believable events and behavious
 Ovalapping events and behaviour
+
 #Principals of Environment
 1.Focal point = gives player idea of what to focus on.
 2.Anticipation = creation of suspence whithing. Informs the player that something is about to happen.
 3.Believable Events and Behaviour
 4.Overlapping events and behaviour - other activites outside the primary activity which can influence the events
+
 #spacing can affect pacing
 -How much time is spaced betweeen interaction of game objects?
 Vary complexity - pacing
@@ -139,8 +150,41 @@ Pacing and spacing both form progression
 Pacing - descibes the relationship betweeen an activity its intensity and duration in a game.
 Spacing - range between objects and their interactivity.
 
+#RULES DESIGN
+the process of outlining the rules of a game.
+for development of rules in an orderly manner
+to prevent hanging rules or deadlock happening in a game.
+it ensures a game is not operationally expensive.
+examples of rules :
+1. Navigation rules ->define navitation and unnavigate areas.
+2. Point Earning rules
+3. Attempt/ Life rules
+4. Physics rules
+5. Music rules -> what triggers music in the game?
+6. Level transition rules -> eg after a player meets the objectives of a level.
+7. Bonus Ability rules
 
+#Rule Specification Table. (RRFPO)
+Contains the following: 
+-Rule
+-Rule Category
+-Functionality
+-Preconditions
+-Output/ Post condition
 
+#Rules Mapping
+Sequential mapping of all rules in the game.
+Maps out a theoretical rule into a specific objective.
+It gives a blueprint of all functionalities and pacing of game.
+
+#Rules Mapping Table
+Rule function - function name eg (function Mover())
+Input/Trigger - eg keyboard keys
+Action - eg up key, move positive on Z axis
+Alternative action - eg No action/ displaying a message 
+Pseudocode - ie if (get KeyInput is up){move positive on z axis}
+Reward - eg 1 point for correct movement.
+Pacer Logic- eg place enemy 10m from player, and reduce distance every 2 seconds.
 
 
 
