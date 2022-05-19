@@ -1,29 +1,53 @@
 #28th April 2020
 #----------------------------
+#Characteristics of a game -> the 4 C's
 Conflict -> Element of struggle eg between players, chance or teams
 Control - > These are rules they are either simple, complex. Fixed or flexible
 Closure -> when games come to an end
 Contravance -> elements of artificality  {eg infusion of powers
-
+#Types of games -> NOTE: DEFINE CHARACTERISTICS FOR BOTH
 Microgame - >brief game last btw 30 secs and 10 mins
 What are the qualities of a microgame?
 
+MiniGame -> Last between 10 and 45 minutes.
 #Attributes of a game
 ------------------------
 1. Goal -> this gives the player the purpose
 They should be challanging yet achievable.
+
 2. Feedback -> when a game updates a player on how they are doing
 examples include:, attemps left, cumulative points, health bar
-3. Voluntary participation
-4. Rules
-Game genres
-1. Action games
-2, Simulatoin games - > depicts real events
+
+3. Voluntary participation -> requires players to recogonize the rules of the game
+and accept them voluntarilty in order to participate. 
+
+4. Rules -> these make achievement of the goal challanging,
+which brings player encouragement.
+#Game genres
+
+1. Action games -> use of realtime skill in play eg jumping/ shoot at a moving target 
+subcatergories include : (shooters games, tower defence,Maze games, fighters games)
+
+2. Strategy games ->entails devising a strategy to overcome game obstacles 
+Examples Include: Turn based games, timed strategy games.
+
+3. Simulatoin games - > depicts real events that 
+reproduces physics of the actual game. eg fight, flight, driving simulators.
 types of simulations include sports simulation,  flight simulation, boat 
-Puzzle games
+
+4. Puzzle games
 Augmented reality games -> These games mimic real life situations 
 and could be played for fun or improvement of human lives
-#components of a game
+#Principles of a Game
+Substancial amount of research for game
+Good game design
+#Principles of Mobile Game Design
+1. provide help on playing the game
+2. easy to undersrand goals
+3. Implement short sessions
+4. Resume capability
+5. Dynamic HCI
+#Components of a game
 Opening screen 
 menu screen
 music
