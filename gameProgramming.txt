@@ -203,7 +203,19 @@ frequently occuring events changes don't need continous announcements
 communication ie clarity of solution to objectives.
  (eg team members being aware of objectives)
 
-
+#code segments
+// Online IDE - Code Editor, Compiler, Interpreter
+#include<stdio.h>
+int main()
+{
+int myNum;
+// Ask the user to type a number
+printf("Type a number: \n");
+// Get and save the number the user types
+scanf("%i", &myNum);
+// Output the number the user typed
+printf("Your number is: %i", myNum);
+}
 
 
 
