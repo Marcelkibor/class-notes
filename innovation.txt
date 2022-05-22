@@ -10,6 +10,7 @@ conducted to determine if a business should be pursued.
 3. Organizational feasibility
 4. Financial Feasibility.
 
+#PRODUCT/SERVICE FEASIBILITY
 Done to asssess the appeal of a product/service being proposed. 
 Has 2 components :  
 # Product/Service Desirability 
@@ -20,7 +21,13 @@ How?
 How? 
 -Face to face talk with potential customers
 -Use Online Tools to assess demand.
-#INDUSTRY /TARGET MARKET FEASUIBILITY
+
+#INDUSTRY /TARGET MARKET FEASIBILITY
+Done to assess the appeal of the industry or target market.
 #Qualities of an Attractive Market
 Young, not old
+Fragmented, not concentrated.
+Growing, not shrinking.
+
+
 
