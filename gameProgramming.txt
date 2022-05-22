@@ -28,7 +28,6 @@ and accept them voluntarilty in order to participate.
 which brings player encouragement.
 
 #Game genres
-
 1. Action games -> use of realtime skill in play eg jumping/ shoot at a moving target 
 subcatergories include : (shooters games, tower defence,Maze games, fighters games)
 
@@ -135,7 +134,7 @@ these gameObjects are driven by a physics engine which controls the motion
 #Categories of Behaviour
 Focal point
 anticipation
-annoiced change
+announced change
 Believable events and behavious
 Ovalapping events and behaviour
 
