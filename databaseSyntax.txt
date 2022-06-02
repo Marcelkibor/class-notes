@@ -21,3 +21,7 @@ adding example - alter table <tName> add COLUMN <colName>;
 #Modification of datatype
 alter table <tName> MODIFY COLUMN <colName> <newDataType>;
 
+#Transforming letter Cases in MYSQL
+<<syntax>>
+update <tableName> set <colName> = upper/lower(colName);
+
